@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadinb94
 - 👀 I’m interested in web development and computer science.
-- 🌱 I’m currently learning front end and back end web development.
+- 🌱 I’m currently learning front-end and back-end web development.
 - 💞️ I’m looking to collaborate on making websites and web apps.
 - 📫 You can reach me via email at kadinbrooks@hotmail.com
 
